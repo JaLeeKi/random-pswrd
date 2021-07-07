@@ -1,5 +1,5 @@
 body{
-    background-color: #b7e4c7;
+    background-color: #95d5b2;
 }
 
 #random-password{
@@ -22,7 +22,7 @@ h1{
     flex-direction: column;
     align-items: flex-start;
     color: #081c15;
-    background-color: #95d5b2;
+    background-color: #b7e4c7;
     box-shadow: 8px 5px 5px #1b4332;
 }
 
