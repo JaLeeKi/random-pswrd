@@ -9,8 +9,8 @@ body{
 h1{
     font-family: cursive;
     color: #081c15;
-    margin-top: 0;
     margin-bottom: 0;
+    text-shadow: 2px 1px 1px #1b4332;
 }
 
 #settings{
@@ -23,6 +23,7 @@ h1{
     align-items: flex-start;
     color: #081c15;
     background-color: #95d5b2;
+    box-shadow: 8px 5px 5px #1b4332;
 }
 
 label[for=length]{
@@ -72,6 +73,7 @@ label[for=symbols]{
     height: 10vh;
     align-items: flex-end;
     justify-content: center;
+    
 }
 
 #password{
@@ -81,10 +83,12 @@ label[for=symbols]{
     font-size: xx-large;
     text-align: center;
     color: #1b4332;
+    box-shadow: 8px 5px 5px #1b4332;
 }
 
 ::placeholder{
     color: #95d5b2;
+    text-shadow: 1px 1px 1px #1b4332;
 }
 
 #copy{
@@ -95,6 +99,7 @@ label[for=symbols]{
     margin-left: 15px;
     color: #1b4332;
     border-radius: 20%;
+    box-shadow: 5px 3px 3px #1b4332;
 }
 
 #copy:hover {
@@ -103,6 +108,8 @@ label[for=symbols]{
     background-color: #2d6a4f;
     color: #081c15;
     cursor: pointer;
+    text-shadow: 2px 2px 2px #1b4332;
+    box-shadow: 5px 5px 5px #1b4332;
 }
 
 #generate-btn{
@@ -121,6 +128,7 @@ label[for=symbols]{
     font-size: x-large;
     color: #1b4332;
     font-family: cursive;
+    box-shadow: 5px 3px 3px #1b4332;
 }
 
 #generate:hover {
@@ -130,4 +138,6 @@ label[for=symbols]{
     background-color: #2d6a4f;
     color: #081c15;
     cursor: pointer;
+    text-shadow: 2px 2px 2px #1b4332;
+    box-shadow: 5px 5px 5px #1b4332;
 }
