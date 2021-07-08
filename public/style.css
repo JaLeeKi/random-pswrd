@@ -130,6 +130,7 @@ label[for=symbols]{
     color: #1b4332;
     font-family: cursive;
     box-shadow: 5px 3px 3px #1b4332;
+    margin-right: 60px;
 }
 
 #generate:hover {
