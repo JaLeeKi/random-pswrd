@@ -1,3 +1,5 @@
 node_modules/
-script.pdf/
-colors.pdf/
+.vscode/
+keep.mkv
+script.pdf
+colors.pdf
