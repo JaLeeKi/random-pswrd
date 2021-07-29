@@ -1,5 +1,4 @@
 node_modules/
 .vscode/
 keep.mkv
-script.pdf
-colors.pdf
+*.pdf
